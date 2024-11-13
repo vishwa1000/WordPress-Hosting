@@ -1,5 +1,16 @@
 # WordPress-Hosting
 Hosting wordpress in AWS EC2
+**Step 1:**
+Create AWS Account 
+
+**Step 2:**
+Luanch an EC2 instace
+
+**Step 3:**
+Take control of the server
+
+**Step 4:**
+Type the commands given below
 
 Update CMT
 		-> sudo apt update 
